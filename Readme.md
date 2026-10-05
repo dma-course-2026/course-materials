@@ -1,7 +1,5 @@
 # LỘ TRÌNH CHI TIẾT DATA - BI - ML - AI — 56 TUẦN
 
-> Nguồn: sheet `Lộ trình 56 tuần` trong file `Data AI course 2026.xlsx`.
-
 > **Lưu ý dữ liệu nguồn:** sheet đang có 56 dòng tuần, đánh số từ **Tuần 0** đến **Tuần 55**.
 
 ## Tổng quan
