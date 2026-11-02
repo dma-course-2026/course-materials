@@ -1,7 +1,5 @@
-# 100 BÀI TẬP PYTHON CƠ BẢN — BÀI 50 → 100
+**BÀI 50 → 100**
 
-> Tổng hợp **đề bài** (không bao gồm lời giải/code) từ tài liệu *100 Bài tập python cơ bản có lời giải*.
-> Phần này gồm các bài: **Bài 50 → Bài 100** (tài liệu gốc đánh trùng số 51 nên có 2 bài mang số 51).
 
 ---
 
